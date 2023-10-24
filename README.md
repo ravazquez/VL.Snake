@@ -1,8 +1,8 @@
 # VL.Snake
 
-A simple implementation of the classic game Snake in VL
-
 ![VL.Snake](assets/VL.Snake.png)
+
+A simple implementation of the classic game Snake in VL.
 
 ## Game Instructions
 
